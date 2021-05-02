@@ -1,5 +1,5 @@
 # Talaria HackRX 2021
-Author: 
+Author: <br />
 Anh Tuan Pham (https://github.com/pooniena2) <br />
 Hy Huynh (https://github.com/hyhuynh) <br />
 Khoa Nguyen (https://github.com/dkhoanguyen1101) <br />
