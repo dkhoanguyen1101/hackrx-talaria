@@ -1,4 +1,4 @@
-# hackrx-talaria
+# Talaria HackRX 2021
 Author: 
 Anh Tuan Pham (https://github.com/pooniena2) <br />
 Hy Huynh (https://github.com/hyhuynh) <br />
